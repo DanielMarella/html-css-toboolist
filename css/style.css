@@ -66,3 +66,64 @@ ul{
     width: 20px;
     height:20px
 }
+
+
+.Group{
+    line-height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+}
+
+
+
+
+.Editorial{
+    line-height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    color: white;
+    font-size: 15px;
+    background-color: #46ADF1;
+}
+
+.Q1Goals{
+    color: white;
+    font-size: 15px;
+    background-color: #9D72E4;
+}
+
+.Recruiting{
+    color: white;
+    font-size: 15px;
+    background-color: #64C0A8;
+}
+
+.Mobile{
+    color: white;
+    font-size: 15px;
+    background-color: #F29E34;
+
+}
+
+
+.Website{
+    color: white;
+    font-size: 15px;
+    background-color: #D863A1;
+
+}
+
+.Sales{
+    color: white;
+    font-size: 15px;
+    background-color: #B1C926;
+
+}
