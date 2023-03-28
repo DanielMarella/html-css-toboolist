@@ -38,3 +38,31 @@ ul{
     padding-top: 50px;
     line-height: 50px;
 }
+
+
+.ToDo{
+    line-height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: 1px solid red;
+    color:red;;
+    font-size: 15px;
+    display: inline-block;
+    width: 20px;
+    height:20px
+
+}
+
+.Done{
+    line-height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: 1px solid #51B99E;
+    color:#51B99E;;
+    font-size: 15px;
+    display: inline-block;
+    width: 20px;
+    height:20px
+}
