@@ -8,3 +8,18 @@
     display: inline-block;
     font-size: 50px;
 }
+
+main{
+    margin-left: 150px;
+}
+
+
+.Task{
+    background-color: #46ADF1;
+    color: white;
+}
+
+
+.Section{
+    color: grey;
+}
