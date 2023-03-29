@@ -86,6 +86,8 @@ li{
 }
 
 .Group{
+    color: white;
+    font-size: 15px;
     margin-left: 10px;
     line-height: 30px;
     text-align: center;
@@ -97,40 +99,25 @@ li{
 }
 
 .Editorial{
-    color: white;
-    font-size: 15px;
     background-color: #46ADF1;
 }
 
 .Q1Goals{
-    color: white;
-    font-size: 15px;
     background-color: #9D72E4;
 }
 
 .Recruiting{
-    color: white;
-    font-size: 15px;
     background-color: #64C0A8;
 }
 
 .Mobile{
-    color: white;
-    font-size: 15px;
     background-color: #F29E34;
-
 }
 
 .Website{
-    color: white;
-    font-size: 15px;
     background-color: #D863A1;
-
 }
 
 .Sales{
-    color: white;
-    font-size: 15px;
     background-color: #B1C926;
-
 }
