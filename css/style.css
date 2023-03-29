@@ -50,44 +50,39 @@ main{
     border-radius: 15px;
 }
 
-ul{
-    list-style-type: none;
+.list-title{
     font-size: 30px;
-    padding-top: 50px;
+    margin-top: 50px;
     line-height: 50px;
 }
 
 li{
+    list-style-type: none;
     font-size: 25px;
     margin-top: 5px;
+    line-height: 50px;
+}
+
+.Icon{
+    margin-right: 10px;
+    line-height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    font-size: 15px;
+    display: inline-block;
+    width: 20px;
+    height:20px
 }
 
 .ToDo{
-    margin-right: 10px;
-    line-height: 20px;
-    text-align: center;
-    vertical-align: middle;
-    border-radius: 50%;
     border: 1px solid red;
     color:red;;
-    font-size: 15px;
-    display: inline-block;
-    width: 20px;
-    height:20px
 }
 
 .Done{
-    margin-right: 10px;
-    line-height: 20px;
-    text-align: center;
-    vertical-align: middle;
-    border-radius: 50%;
     border: 1px solid #51B99E;
     color:#51B99E;;
-    font-size: 15px;
-    display: inline-block;
-    width: 20px;
-    height:20px
 }
 
 .Group{
@@ -102,13 +97,6 @@ li{
 }
 
 .Editorial{
-    line-height: 30px;
-    text-align: center;
-    vertical-align: middle;
-    display: inline-block;
-    width: 100px;
-    height: 30px;
-    border-radius: 30px;
     color: white;
     font-size: 15px;
     background-color: #46ADF1;
